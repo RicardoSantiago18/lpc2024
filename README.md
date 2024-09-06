@@ -1,1 +1,2 @@
-# lpc2024
+## Laboratório de Programação
+Aluno: Ricardo da Silva Santiago
