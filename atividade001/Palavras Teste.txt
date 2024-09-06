@@ -1,0 +1,11 @@
+cachorro
+bolacha
+garrafa
+borracha
+caixa
+celular
+verde
+vermelho
+preto
+azul
+computador
